@@ -6,9 +6,10 @@
 - Desenvolver uma versão do clássico jogo Snake em Python para proporcionar entretenimento e desafios aos jogadores.
 - Utilizar uma abordagem interativa para envolver os usuários e estimular o desenvolvimento de habilidades de programação em Python.
 - Criar uma experiência divertida e acessível para jogadores de todas as idades.
+<br>
 
 <div align="center">
-<img src="https://github.com/Saraiva97/jogo-snake-python/assets/93497276/ad5d24df-c78c-45cf-848e-541e53d0a6b0" style="width: 100px"/>
+<img src="https://github.com/Saraiva97/jogo-snake-python/assets/93497276/ad5d24df-c78c-45cf-848e-541e53d0a6b0" style="width: 150px"/>
 </div>
 
 **Como Funciona:**
